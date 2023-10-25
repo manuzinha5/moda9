@@ -1,9 +1,9 @@
-A moda surgiu em meados do século XV no início do renascimento europeu 
-A moda pode-se definir como sendo um mecanismo que regula as escolhas e as preferências das pessoas,
-Que devido a uma espécie de pressão social, indica-lhes aquilo que devem consumir, utilizar, usar ou fazer
-A moda torna-se um hábito repetitivo que identifica um sujeito ou um grupo de indivíduos.
-A moda cria linguagens, muda comportamentos e altera a mais básica expressão de uma sociedade, que é a maneira de vestir, mantendo a sua forte influência também na história econômica e cultural.
-As tendências de moda atingem a população em todas as faixas etárias e influencia os desejos da sociedade.
-través de todos os meios de publicidade e propaganda existentes, por meio das propagandas de televisão e de rádios, panfletos, sites e das redes sociais.
-A moda efletem o contexto de uma época e outros aspectos como imagem, autoimagem, autoestima, política, padrões de beleza, inovações tec- nológicas, moda de rua, tribos e a própria história.
-Os pontos positivos da moda e a originalidade na criação de novas texturas, novos padrões e formas inusitadas de novas peças. 
+# A moda surgiu em meados do século XV no início do renascimento europeu 
+# A moda pode-se definir como sendo um mecanismo que regula as escolhas e as preferências das pessoas,
+# Que devido a uma espécie de pressão social, indica-lhes aquilo que devem consumir, utilizar, usar ou fazer
+# A moda torna-se um hábito repetitivo que identifica um sujeito ou um grupo de indivíduos.
+# A moda cria linguagens, muda comportamentos e altera a mais básica expressão de uma sociedade, que é a maneira de vestir, mantendo a sua forte influência também na história econômica e cultural.
+# As tendências de moda atingem a população em todas as faixas etárias e influencia os desejos da sociedade.
+# través de todos os meios de publicidade e propaganda existentes, por meio das propagandas de televisão e de rádios, panfletos, sites e das redes sociais.
+# A moda efletem o contexto de uma época e outros aspectos como imagem, autoimagem, autoestima, política, padrões de beleza, inovações tec- nológicas, moda de rua, tribos e a própria história.
+# Os pontos positivos da moda e a originalidade na criação de novas texturas, novos padrões e formas inusitadas de novas peças. 
